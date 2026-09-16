@@ -6,7 +6,8 @@ UI 原型用的预构建产物，供 jsDelivr 按 tag 提供服务。内容只�
 
 | 目录 | 源包 | 构建入口与命令 |
 | --- | --- | --- |
-| `tdesign-chat-0.7.0/` | `vue@3.5.42`、`@tdesign-vue-next/chat@0.7.0`、`tdesign-vue-next@1.20.7` | 见 component-agent 仓库 `deliverables/_vendor/tdesign-vue-next-chat@0.7.0/META.md` |
+| `tdesign-chat-0.7.0/` | `vue@3.5.42`、`@tdesign-vue-next/chat@0.7.0`、`tdesign-vue-next@1.20.7` 的 5 个基础组件 | 见 component-agent 仓库 `deliverables/_vendor/tdesign-vue-next-chat@0.7.0/META.md` |
+| `tdesign-full-1.20.7/` | 同上，但含 TDesign 全套组件 | 同上目录的 `META.md` |
 
 引用方式（把 `<tag>` 换成实际 tag）：
 
